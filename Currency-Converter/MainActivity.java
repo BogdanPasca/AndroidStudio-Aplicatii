@@ -1,4 +1,4 @@
-package com.example.dumnezeu.currencyconverter;
+package com.example.user.currencyconverter;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
