@@ -1,4 +1,4 @@
-package com.example.dumnezeu.xsi0;
+package com.example.user.xsi0;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
