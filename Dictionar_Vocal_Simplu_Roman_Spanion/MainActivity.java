@@ -1,4 +1,4 @@
-package com.example.dumnezeu.gridlayout;
+package com.example.user.gridlayout;
 
 import android.media.AudioManager;
 import android.media.MediaPlayer;
@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         String ourId = "";
 
         ourId = view.getResources().getResourceEntryName(id);
-        int resoursceID = getResources().getIdentifier(ourId, "raw", "com.example.dumnezeu.gridlayout");
+        int resoursceID = getResources().getIdentifier(ourId, "raw", "com.example.user.gridlayout");
         MediaPlayer mPlayer = MediaPlayer.create(this, resoursceID);
         mPlayer.start();
         Log.i("Button tapped", ourId);
