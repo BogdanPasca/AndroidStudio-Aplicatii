@@ -1,4 +1,4 @@
-package com.example.dumnezeu.eggtimeapp;
+package com.example.user.eggtimeapp;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
